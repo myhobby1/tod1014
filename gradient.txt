@@ -1,0 +1,22 @@
+오전 11:32 2023-10-14
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+# grad 1 {
+   height : 400px :
+   backgroung -color : red ;
+   background-image : linear-gradient (red. blue) ;
+} 
+
+</style>
+</head>
+<body>
+
+<h1>Linear gradient - top to bottom</h1>
+<div id="grad 1 "></div>
+
+</body>
+</html>
